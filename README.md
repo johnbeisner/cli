@@ -24,7 +24,7 @@ Build Status
 ------------
 
 |Windows x64 |Windows x86 |Mac OS X |Linux x64 |Ubuntu 14.04 / Linux Mint 17 |Ubuntu 16.04 |Ubuntu 16.10 |Debian 8 |RHEL 7.2 |
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |[![][win-x64-build-badge]][win-x64-build]|[![][win-x86-build-badge]][win-x86-build]|[![][osx-build-badge]][osx-build]|[![][linux-build-badge]][linux-build]|[![][ubuntu-14.04-build-badge]][ubuntu-14.04-build]|[![][ubuntu-16.04-build-badge]][ubuntu-16.04-build]|[![][ubuntu-16.10-build-badge]][ubuntu-16.10-build]|[![][debian-8-build-badge]][debian-8-build]|[![][rhel-build-badge]][rhel-build]|
 
 [win-x64-build-badge]: https://devdiv.visualstudio.com/_apis/public/build/definitions/0bdbc590-a062-4c3f-b0f6-9383f67865ee/6786/badge
